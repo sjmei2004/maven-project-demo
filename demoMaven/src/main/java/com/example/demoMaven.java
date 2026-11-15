@@ -4,6 +4,8 @@ public class demoMaven {
 	public void helloApp() {
 		System.out.print("hello maven");
 		System.out.print("hello maven");
+		System.out.print("hello maven");
+		System.out.print("hello maven");
 	}
 
 }
