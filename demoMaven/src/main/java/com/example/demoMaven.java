@@ -6,6 +6,10 @@ public class demoMaven {
 		System.out.print("hello maven");
 		System.out.print("hello maven");
 		System.out.print("hello maven");
+		System.out.print("hello maven");
+		System.out.print("hello maven");
+		System.out.print("hello maven");
+		System.out.print("hello maven");
 	}
 
 }
